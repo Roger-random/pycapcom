@@ -1,0 +1,2 @@
+# pycapcom
+Python capability communicator
